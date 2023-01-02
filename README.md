@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DiyorKhasanov
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me diyorxasanov973@gmail.com
 
 <!---
 DiyorKhasanov/DiyorKhasanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
